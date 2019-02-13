@@ -69,4 +69,4 @@ Below is an example how Reddit should look
 credit: https://www.tivix.com/blog/redesigning-reddit
 
 #### Demo
-video
+[![demo-reddit](http://img.youtube.com/vi/V6Z7NrgYFKw/5.jpg)](https://www.youtube.com/watch?v=V6Z7NrgYFKw "Reddit Demonstration")
