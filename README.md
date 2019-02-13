@@ -19,13 +19,14 @@ When you're trying to have conversations, the messages will disappear from the r
 
 I think it will be problematic if users forgot what were they talking about.
 
+![snapchat-demo](images/snapchat/snapchat-demo.gif)
+
 #### Suggestions
 - Remove auto disappearing messages feature<br>
   Users can manually delete the message if they didn't want to keep that message by pressing the delete button.
 
 #### Demo
-video
-
+((soon))
 
 ## 2. WhatsApp
 WhatsApp Messenger is a cross-platform instant messaging application used to exchange text, image, video and audio messages. It is popular with teenagers and adults because of features like group chatting, voice messages and location sharing.<br>
@@ -37,13 +38,17 @@ When I'm in the conversation with a group of people, I realized that there is a 
 
 You can still see messages that have been "Deleted For Everyone" on WhatsApp when someone has replied it before. It's not only you can see it, but everyone in the group can see that deleted messages.
 
+![whatsappp-demo](images/whatsapp/whatsapp-demo-1.gif)
+
 #### Suggestions
 - Replace the deleted message intended by someone's reply with words like "Message unavailable".
 
 Because when the user has been clicking the "Deleted For Everyone" button, it means the user didn't want that message appears on the other users, maybe because it's an embarrassing or inappropriate message. 
 
 #### Demo
-video
+[![demo-whatsapp](http://img.youtube.com/vi/VWIdfIAIF4E/0.jpg)](https://www.youtube.com/watch?v=VWIdfIAIF4E "WhatsApp Demonstration")
+
+![whatsappp-demo-2](images/whatsapp/whatsapp-demo-2.jpg)
 
 
 ## 3. Reddit (Web)
@@ -69,4 +74,4 @@ Below is an example how Reddit should look
 credit: https://www.tivix.com/blog/redesigning-reddit
 
 #### Demo
-[![demo-reddit](http://img.youtube.com/vi/V6Z7NrgYFKw/5.jpg)](https://www.youtube.com/watch?v=V6Z7NrgYFKw "Reddit Demonstration")
+[![demo-reddit](http://img.youtube.com/vi/V6Z7NrgYFKw/0.jpg)](https://www.youtube.com/watch?v=V6Z7NrgYFKw "Reddit Demonstration")
