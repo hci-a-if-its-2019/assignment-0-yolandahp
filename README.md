@@ -75,3 +75,6 @@ credit: https://www.tivix.com/blog/redesigning-reddit
 
 #### Demo
 [![demo-reddit](http://img.youtube.com/vi/V6Z7NrgYFKw/0.jpg)](https://www.youtube.com/watch?v=V6Z7NrgYFKw "Reddit Demonstration")
+
+## Thanks to
+Thanks to Ferdinand, Dandy, Nurlita, and Fata
