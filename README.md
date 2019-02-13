@@ -35,10 +35,23 @@ When I'm in the conversation with a group of people, I realized that there is a 
 You can still see messages that have been ‘Deleted For Everyone’ on WhatsApp when someone has replied it before. It's not only you can see it, but everyone in the group can see that deleted messages.
 
 #### Suggestions
-- replace the deleted message intended by someone's reply with words like "Message unavailable"
+- replace the deleted message intended by someone's reply with words like "Message unavailable".
 
 #### Demo
 video
 
 
+## Reddit (Web)
+Reddit is a social news and entertainment website where registered users submit content in the form of either a link or a text ("self") post. Other users then vote the submission "up" or "down", which is used to rank the post and determine its position on the site's pages and front page. It can be opened via browser or mobile applications but in this assignment, I will talk about the web.
 
+### The font size is too small
+After you sign in you will be directed into the homepage, and you will realize that the font size is too small to read on your computer.
+
+Here is how the homepage looks like
+
+#### Suggestions
+- Change the font size or substitute navigator text with suitable icon.
+- Redesigning the layout
+
+#### Demo
+video
