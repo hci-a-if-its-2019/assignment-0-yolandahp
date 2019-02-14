@@ -26,7 +26,7 @@ I think it will be problematic if users forgot what were they talking about.
   Users can manually delete the message if they didn't want to keep that message by pressing the delete button.
 
 #### Demo
-((soon))
+[![demo-snapchat](http://img.youtube.com/vi/urRjy3Fmgvs/0.jpg)](https://www.youtube.com/watch?v=urRjy3Fmgvs "Snapchat Demonstration")
 
 ## 2. WhatsApp
 WhatsApp Messenger is a cross-platform instant messaging application used to exchange text, image, video and audio messages. It is popular with teenagers and adults because of features like group chatting, voice messages and location sharing.<br>
